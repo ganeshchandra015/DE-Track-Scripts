@@ -1,0 +1,7 @@
+- 2024-01-01 10:02:05 ERROR Disk quota exceeded
+- 2024-01-01 10:07:45 ERROR Connection timeout
+2026-02-05 14:15:30 ERROR File not found: data.csv
+2026-02-05 14:20:10 ERROR Permission denied: /var/log/app.log
+2026-02-05 14:25:55 ERROR Out of memory while processing request
+2026-02-05 14:30:00 SUCCESS User login: user123
+2026-02-05 14:35:20 FAILURE User login: user456
